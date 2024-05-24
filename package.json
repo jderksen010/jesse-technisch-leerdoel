@@ -1,0 +1,26 @@
+{
+  "name": "jesse-technisch-leerdoel",
+  "version": "1.0.0",
+  "description": "jesse-technisch-leerdoel",
+  "main": "sum.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jderksen010/jesse-technisch-leerdoel.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jderksen010/jesse-technisch-leerdoel/issues"
+  },
+  "homepage": "https://github.com/jderksen010/jesse-technisch-leerdoel#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "node": "^18.20.3"
+  }
+}
