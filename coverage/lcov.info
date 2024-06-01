@@ -1,22 +1,19 @@
 TN:
-SF:isPalindrome.js
-FN:3,hello
-FN:7,isPalindrome
-FNF:2
+SF:Tutorial Jest\isPalindrome.js
+FN:3,isPalindrome
+FNF:1
 FNH:1
-FNDA:0,hello
 FNDA:2,isPalindrome
 DA:1,1
-DA:4,0
-DA:8,2
-DA:11,1
-LF:4
+DA:4,2
+DA:7,1
+LF:3
 LH:3
 BRF:0
 BRH:0
 end_of_record
 TN:
-SF:reverseString.js
+SF:Tutorial Jest\reverseString.js
 FN:1,reverseString
 FNF:1
 FNH:1
@@ -29,7 +26,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:shallowObjClone.js
+SF:Tutorial Jest\shallowObjClone.js
 FN:1,shallowObjClone
 FNF:1
 FNH:1
@@ -42,7 +39,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:sum.js
+SF:Tutorial Jest\sum.js
 FN:1,sum
 FNF:1
 FNH:1
